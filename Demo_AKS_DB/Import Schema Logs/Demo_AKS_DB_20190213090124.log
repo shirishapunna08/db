@@ -1,0 +1,82 @@
+2/13/2019 2:31:24 PM	This log contains information about the import schema operation into project 'Demo_AKS_DB' on computer 'PRINHYLTPHP0980' by user 'chakravarthil'.
+2/13/2019 2:31:25 PM	Import of database schema has started.
+2/13/2019 2:31:40 PM	Gathering database credentials
+2/13/2019 2:31:40 PM	Gathering database options
+2/13/2019 2:31:40 PM	Gathering generic database scoped configuration option
+2/13/2019 2:31:40 PM	Gathering users
+2/13/2019 2:31:40 PM	Gathering roles
+2/13/2019 2:31:40 PM	Gathering application roles
+2/13/2019 2:31:40 PM	Gathering role memberships
+2/13/2019 2:31:40 PM	Gathering filegroups
+2/13/2019 2:31:40 PM	Gathering full-text catalogs
+2/13/2019 2:31:40 PM	Gathering assemblies
+2/13/2019 2:31:40 PM	Gathering certificates
+2/13/2019 2:31:40 PM	Gathering asymmetric keys
+2/13/2019 2:31:40 PM	Gathering symmetric keys
+2/13/2019 2:31:40 PM	Gathering encrypted symmetric keys
+2/13/2019 2:31:40 PM	Gathering schemas
+2/13/2019 2:31:40 PM	Gathering XML schema collections
+2/13/2019 2:31:40 PM	Gathering user-defined data types
+2/13/2019 2:31:40 PM	Gathering user-defined types
+2/13/2019 2:31:40 PM	Gathering table types
+2/13/2019 2:31:40 PM	Gathering unique keys for table types
+2/13/2019 2:31:40 PM	Gathering primary keys for table types
+2/13/2019 2:31:40 PM	Gathering indexes for table types
+2/13/2019 2:31:40 PM	Gathering check constraints for table types
+2/13/2019 2:31:40 PM	Gathering default constraints for table types
+2/13/2019 2:31:40 PM	Gathering partition functions
+2/13/2019 2:31:40 PM	Gathering partition schemes
+2/13/2019 2:31:40 PM	Gathering functions
+2/13/2019 2:31:40 PM	Gathering encrypted functions
+2/13/2019 2:31:40 PM	Gathering aggregates
+2/13/2019 2:31:40 PM	Gathering procedures
+2/13/2019 2:31:40 PM	Gathering encrypted procedures
+2/13/2019 2:31:40 PM	Gathering tables
+2/13/2019 2:31:40 PM	Gathering primary keys
+2/13/2019 2:31:40 PM	Gathering unique constraints
+2/13/2019 2:31:40 PM	Gathering foreign keys
+2/13/2019 2:31:40 PM	Gathering default constraints
+2/13/2019 2:31:40 PM	Gathering check constraints
+2/13/2019 2:31:40 PM	Gathering views
+2/13/2019 2:31:40 PM	Gathering encrypted views
+2/13/2019 2:31:40 PM	Gathering indexes
+2/13/2019 2:31:40 PM	Gathering statistics
+2/13/2019 2:31:40 PM	Gathering full-text index stoplists
+2/13/2019 2:31:40 PM	Gathering search property lists
+2/13/2019 2:31:40 PM	Gathering search properties
+2/13/2019 2:31:40 PM	Gathering full-text indexes
+2/13/2019 2:31:40 PM	Gathering column store indexes
+2/13/2019 2:31:40 PM	Gathering spatial indexes
+2/13/2019 2:31:40 PM	Gathering XML indexes
+2/13/2019 2:31:40 PM	Gathering Selective XML indexes
+2/13/2019 2:31:41 PM	Gathering encrypted triggers
+2/13/2019 2:31:41 PM	Gathering triggers
+2/13/2019 2:31:41 PM	Gathering encrypted and clr ddl triggers
+2/13/2019 2:31:41 PM	Gathering ddl triggers
+2/13/2019 2:31:41 PM	Gathering synonyms
+2/13/2019 2:31:41 PM	Gathering defaults
+2/13/2019 2:31:41 PM	Gathering data constraint uddt bindings
+2/13/2019 2:31:41 PM	Gathering rules
+2/13/2019 2:31:41 PM	Gathering data constraint uddt bindings
+2/13/2019 2:31:41 PM	Gathering message types
+2/13/2019 2:31:41 PM	Gathering queues
+2/13/2019 2:31:41 PM	Gathering contracts
+2/13/2019 2:31:41 PM	Gathering services
+2/13/2019 2:31:41 PM	Gathering event notifications
+2/13/2019 2:31:41 PM	Gathering remote service bindings
+2/13/2019 2:31:41 PM	Gathering broker priorities
+2/13/2019 2:31:41 PM	Gathering signatures
+2/13/2019 2:31:41 PM	Gathering data compression options
+2/13/2019 2:31:41 PM	Gathering sequence types
+2/13/2019 2:31:41 PM	Gathering security policies
+2/13/2019 2:31:41 PM	Gather column encryption keys
+2/13/2019 2:31:41 PM	Gathering column master keys
+2/13/2019 2:31:41 PM	Gathering external data sources
+2/13/2019 2:31:41 PM	Gathering external file formats
+2/13/2019 2:31:41 PM	Gathering external tables
+2/13/2019 2:31:41 PM	Gathering extended properties
+2/13/2019 2:31:44 PM	Scanning project for duplicate elements
+2/13/2019 2:31:44 PM	Finished duplicate element processing
+2/13/2019 2:31:45 PM	Finished importing database.
+2/13/2019 2:31:45 PM	A summary of the import was saved to the following location: E:\Demo_AKS_SSIS\Demo_AKS_DB\Demo_AKS_DB\Import Schema Logs\Demo_AKS_DB_20190213090124.log
+2/13/2019 2:31:45 PM	Click Finish to continue...

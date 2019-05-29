@@ -1,0 +1,6 @@
+E:\Demo_AKS_DB\Demo_AKS_DB\Demo_AKS_DB\bin\Debug\Demo_AKS_DB.dacpac
+E:\Demo_AKS_DB\Demo_AKS_DB\Demo_AKS_DB\bin\Debug\Demo_AKS_DB.dll
+E:\Demo_AKS_DB\Demo_AKS_DB\Demo_AKS_DB\bin\Debug\Demo_AKS_DB.pdb
+E:\Demo_AKS_DB\Demo_AKS_DB\Demo_AKS_DB\obj\Debug\Demo_AKS_DB.sqlprojAssemblyReference.cache
+E:\Demo_AKS_DB\Demo_AKS_DB\Demo_AKS_DB\obj\Debug\Demo_AKS_DB.dll
+E:\Demo_AKS_DB\Demo_AKS_DB\Demo_AKS_DB\obj\Debug\Demo_AKS_DB.pdb
